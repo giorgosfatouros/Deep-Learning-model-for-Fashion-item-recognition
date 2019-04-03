@@ -1,0 +1,7 @@
+keras==2.2.4
+tensorflow==1.12.0
+scikit-learn==o.20.2
+IPython==7.2.0
+matplotlib==3.0.2
+numpy==1.15.4
+python==3.6.8
