@@ -1,4 +1,6 @@
 # Deep-Learning-model-for-Fashion-item-recognition
+code available at: https://github.com/giorgosfatouros/Deep-Learning-model-for-Fashion-item-recognition
+
 Classification of Fashion-MNIST dataset with tensorflow.keras, using a Convolutional Neural Network (CNN) architecture.
 * The dataset contains 70,000 grayscale images in 10 categories.
 Label Description:
