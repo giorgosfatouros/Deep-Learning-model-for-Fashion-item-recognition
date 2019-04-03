@@ -3,19 +3,19 @@ code available at: https://github.com/giorgosfatouros/Deep-Learning-model-for-Fa
 
 Classification of Fashion-MNIST dataset with tensorflow.keras, using a Convolutional Neural Network (CNN) architecture.
 * The dataset contains 70,000 grayscale images in 10 categories.
+
 Label Description:
 
-``
-0 T-shirt/top 
-1 Trouser 
-2 Pullover 
-3 Dress 
-4 Coat 
-5 Sandal 
-6 Shirt 
-7 Sneaker 
-8 Bag 
-9 Ankle boot``
+`0 T-shirt/top`
+`1 Trouser`
+`2 Pullover` 
+`3 Dress`
+`4 Coat`
+`5 Sandal` 
+`6 Shirt`
+`7 Sneaker` 
+`8 Bag` 
+`9 Ankle boot`
 
 * The images show individual articles of clothing at low resolution (28 by 28 pixels).
 * 60,000 images to train the network and 10,000 images to test it.
